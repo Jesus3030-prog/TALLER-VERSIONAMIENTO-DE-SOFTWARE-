@@ -6,4 +6,5 @@ def resta(a, b):
 
 if __name__ == "__Calculadora_basica.py__":
     print("Suma: 2 + 3 =", suma(2, 3))
-    print("Resta: 5 - 2 =", resta(5, 2))
+    print("Resta: 5 - 2 =", resta(5, 2))2626
+    
